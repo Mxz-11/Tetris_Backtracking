@@ -3,7 +3,7 @@
 This repository contains the implementation of Betris, a variant of Tetris to test where the piece must be placed to optimize the available space.
 
 <h1 align="center">
-  <img src="https://media.tenor.com/SLT4ZkqLg7IAAAAC/twow-tr.gif" alt="Ten Words of Wisdom" />
+  <img src="https://cdn2.steamgriddb.com/logo/8856638da4354266a53ba0fe9aef68dd.png" alt="Betris Logo" />
 </h1>
 
 ## Betris follows these features:
