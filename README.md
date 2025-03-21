@@ -2,6 +2,12 @@
 
 This repository contains the implementation of Betris, a variant of Tetris to test where the piece must be placed to optimize the available space.
 
+<h1>
+  <a href="https://tenor.com/es/view/twow-tr_-carykh-mtwow-ten-words-of-wisdom-gif-22428845" target="_blank">
+    <img src="https://media.tenor.com/images/2a1e4a85a3f0d5d450a70f89bf29a0ea/tenor.gif" alt="Ten Words of Wisdom GIF">
+  </a>
+</h1>
+
 ## Betris follows these features:
 
 - Rectangular Board: The board dimensions (number of rows and columns) are provided as command-line arguments.
